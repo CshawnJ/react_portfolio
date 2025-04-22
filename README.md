@@ -16,4 +16,3 @@ npm install
 
 npm run dev
 
-Feel free to reach out via LinkedIn
