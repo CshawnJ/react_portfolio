@@ -7,7 +7,7 @@ const projects = [
     title: "Lenses",
     description: "Lenses provides a platform where users can upload high quality photos and also get professional help from professional photographers.",
     image: "./assets/lense.png",
-    link: "hhttps://chrishawnjoseph.wixsite.com/cjgraphics/lenses"
+    link: "https://chrishawnjoseph.wixsite.com/cjgraphics/lenses"
   },
   {
     title: "HobbyUp ",
@@ -18,8 +18,8 @@ const projects = [
   {
     title: "Photoshop",
     description: "Showcasing my work utilizing Photoshop.",
-    image: "./assets/water_ad.png",
-    link: "https://chrishawnjoseph.wixsite.com/cjgraphics/portfolio-collections/my-portfolio/water-adw"
+    image: "./assets/Portrait_gloweffect.jpg",
+    link: "https://chrishawnjoseph.wixsite.com/cjgraphics/portfolio"
   }
 ];
 
